@@ -15,7 +15,7 @@ Output quantization to reduce bit-width
 Pipelined and modular structure for high throughput
 
 
-****Applications****
+***Applications***
 
 Real-time video analytics
 
